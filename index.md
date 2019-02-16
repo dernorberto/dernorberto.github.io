@@ -5,4 +5,4 @@ The plan is to:
 
 ### Recipes in here:
 
-* [https://dernorberto.github.io/pastramibagel] (kinda like a very nice manwich)
+* [https://dernorberto.github.io/pastramibagel](Pastrami Bagel) (kinda like a very nice manwich)
