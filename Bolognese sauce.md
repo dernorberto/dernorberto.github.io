@@ -7,7 +7,8 @@
 ## Ingredients
 
 * Tomato passiert (good brand) 5 packs
-* 2x 400g mince beef
+* 1x 400g mince beef
+* 1x 250g pack minced dry soy
 * 100g bacon (200g produces a lot of fat, too much for my liking)
 * Worcester sauce
 * Oregano dry and thinly sliced
