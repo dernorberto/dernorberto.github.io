@@ -19,3 +19,4 @@ The plan is to:
 | [Spanish Tortilla](https://dernorberto.github.io/Spanish%20tortilla) | | |
 | [Pancakes](https://dernorberto.github.io/pancakes) | brakfast favorite|  mix is easy, making them takes time|
 | [Geschnetzeltes](https://dernorberto.github.io/Geschnetzeltes) | | |
+| [Eggs in a nest](https://dernorberto.github.io/Eggs%20in%20a%20nest) | | |
