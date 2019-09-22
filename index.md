@@ -7,7 +7,7 @@ The plan is to:
 
 | :--- | :---: | --- |
 | **Recipe** | **Family Appreciation** | **Start-to-finish** |
-| [Quiche Lorraine](https://dernorberto.github.io/Quiche Lorraine) | easy and good | 30min without oven preheating |
+| [Quiche Lorraine](https://dernorberto.github.io/Quiche%20Lorraine) | easy and good | 30min without oven preheating |
 | [Pastrami Bagel](https://dernorberto.github.io/pastramibagel) (kinda like a very nice manwich) | just dad | 20 min |
 | [Biryani Chicken](https://dernorberto.github.io/Biryani%20chicken) | like very much | 60min |
 | [Bolognese](https://dernorberto.github.io/Bolognese%20sauce) |works every time | |
