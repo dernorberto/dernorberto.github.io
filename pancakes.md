@@ -8,13 +8,13 @@ Serves: 2-3 adults
 ### Ingredients
 
 * 300g flour
-* 50g sugar
-* 16g (1 sachet) baking powder
-* 6g salt
+* 50g (3tbsp) sugar
+* 16g (1 sachet, 4tsp) baking powder
+* 6g (1tsp) salt
 * 350 ml whole milk (3.5%)
 * 2 large eggs
 * 1 tbsp vegetable oil
-* (optional: baking soda (de: natriumhydrogencarbonat))
+* (optional: 2,4g baking soda (1/2tsp, de: natriumhydrogencarbonat))
 
 ### Directions
 
