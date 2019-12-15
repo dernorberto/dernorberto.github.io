@@ -2,16 +2,22 @@ Source: meilleur du chef
 
 ## Ingredients
 
-* flour 250g
-* salt 1 pinch
-* butter 125g (half a pack)
-* water: room temp
-* 1 egg yolk
+* 250g flour
+* 125g softened butter (half a pack)
+* 1 pinch salt
+* ~50 ml water room temp
+* (optional: 1 egg yolk)
 
 ## Instructions
 
+* flour in a mount and add chunks of softened butter and salt;
+* mix butter in with fingers;
+* add egg yolk;
+* start mixing all the flour while gradually adding water;
+* fridge for 30min before preparing (if possible)
 
-## Notes
+## freezer storage
 
-* works in freezer but not sure because of the dairy (butter)
-* ideally 30min in fridge before preparing
+* lay it our flat and make rectangular blocs, makes thawing more homogenous;
+
+
