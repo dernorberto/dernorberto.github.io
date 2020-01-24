@@ -1,9 +1,8 @@
 ## Details
 
 * source: "Tartes, quiches, pizzas" (ISBN 978-2-84831-121-0);
-* opinion: very easy and very yummy;
-* hints:  
-  * fry peas, carrots and/or mushrooms together with the bacon bits;
+* opinion: very easy and delicious;
+* Tip: stir-fry peas, carrots and/or mushrooms together with the bacon bits;
 
 ## Ingredients
 
@@ -24,24 +23,31 @@
 * place bacon on bottom of mould, cover with egg/cream mixture
 * 25min in oven, until there's no liquid in the middle
 
-## pastry - make your own (butter-based)
+## pastry (Pâte brisée) - make your own (butter-based)
 
-### Ingredients for 2 sheets
+### Gluten-free alternative
 
-* 340 g flour
-* 1 ml salt
-* 170 g unsalted butter cut in cubes
-* 90 ml cold water
+* Replaced wheat flour with [Schär Mix-It Universal](https://www.schaer.com/en-int/p/mix-it-universal) = I forgot to add something to make the dough stick (e.g. Xanthan gum) and it came out like flour, fell apart and dried in your mouth. Will try again later.
 
-### preparation with the mixer
+### Ingredients
 
-* mix flour & salt
-* add butter and mix for a little bit until chunks are pea-sized
-* add water and mix until it's just formed
-* add more water if too dry
-* make 2 disks, not balls
-* wrap in foil and out in fridge for 30min
-* flatten them on a floured work surface or between two sheets of baking paper
+* 250g flour
+* 125g softened butter (half a pack)
+* 1 pinch salt
+* ~50 ml water room temp
+* (optional: 1 egg yolk)
+
+### Instructions
+
+* flour in a mount and add chunks of softened butter and salt;
+* mix butter in with fingers;
+* add egg yolk;
+* start mixing all the flour while gradually adding water;
+* fridge for 30min before preparing (if possible)
+
+### freezer storage
+
+* lay it our flat and make round or rectangular blocs, makes thawing more homogenous;
 
 ## pastry - pre-bought (oil-based)
 
