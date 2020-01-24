@@ -12,6 +12,10 @@ Open these pages in a web browser on a tablet when preparing to cook, save paper
 
 Fork the repo at will, PR of recipes are very welcome.
 
+## Notes about gluten-free
+
+As I am changing to a gluten-free diet, I'll be adding notes to how well these adapt when replacing mainly wheat-based products.
+
 ## Future ideas
 
 * display recipes in a diagram (HTML table) like http://www.cookingforengineers.com/recipe/127/Shepherds-Pie-Cottage-Pie/trn
