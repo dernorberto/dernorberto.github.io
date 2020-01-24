@@ -25,6 +25,8 @@
 
 ## pastry (Pâte brisée) - make your own (butter-based)
 
+* Source: [meilleur du chef](https://www.meilleurduchef.com/fr/recette/pate-brisee1.html)
+
 ### Gluten-free alternative
 
 * Replaced wheat flour with [Schär Mix-It Universal](https://www.schaer.com/en-int/p/mix-it-universal) = I forgot to add something to make the dough stick (e.g. Xanthan gum) and it came out like flour, fell apart and dried in your mouth. Will try again later.
