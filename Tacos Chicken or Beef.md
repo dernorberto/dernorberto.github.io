@@ -1,8 +1,8 @@
 # Details
 
 * source: 
-  * Chicken: https://www.isabeleats.com/easy-chicken-tacos/
-  * Beef: https://www.isabeleats.com/easy-ground-beef-tacos/
+  * Chicken: [isabeleats.com/easy-chicken-tacos/](https://www.isabeleats.com/easy-chicken-tacos/)
+  * Beef: [isabeleats.com/easy-ground-beef-tacos/](https://www.isabeleats.com/easy-ground-beef-tacos)
 * opinion: Super easy and delicious;
 
 ## Chicken
