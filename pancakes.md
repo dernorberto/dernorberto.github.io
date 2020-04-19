@@ -21,7 +21,7 @@ Serves: 2-3 adults
 * 16g (1 sachet, 4tsp) baking powder
 * 6g (1tsp) salt
 * 350 ml whole milk (3.5%)
-* 2 large eggs
+* 1 egg
 * 1 tbsp vegetable oil
 * (optional: 2,4g baking soda (1/2tsp, de: natriumhydrogencarbonat))
 
