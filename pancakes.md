@@ -8,6 +8,14 @@ Serves: 2-3 adults
 ### Gluten-free alternative
 
 * Outcome with [Schär Mix-It Universal](https://www.schaer.com/en-int/p/mix-it-universal) = VERY GOOD!
+* Outcome with Rewe Glutenfrei Mehl:
+  * Reduce the amount of flour to 250g or less;
+* DO NOT add any Gum (e.g. Xanthan), they will be a disaster to work with;
+
+## Open this link if you have the time
+
+* [Fluffy Pancakes Recipe by Matty Matheson](https://www.vice.com/en_us/article/kbke93/fluffy-pancakes)
+* My opinion: too many eggs makes them too firm, but they are insanely good;
 
 ### Tips
 
