@@ -3,14 +3,16 @@ Serves: 2-3 adults
 ## Recipe (way more american)
 
 * Source: Binging with Babish (https://www.bingingwithbabish.com/recipes/classicpancakes)
-* Outcome: very thick, fluffy delicious ones
+* Outcome: very thick, fluffy delicious ones, a bit tricky to do many as the batter is very thick as well;
+* Next update, change recipe to https://www.bbcgoodfood.com/recipes/american-pancakes which yielded fantastic results;
 
 ### Gluten-free alternative
 
 * Outcome with [Schär Mix-It Universal](https://www.schaer.com/en-int/p/mix-it-universal) = VERY GOOD!
-* Outcome with Rewe Glutenfrei Mehl:
-  * Reduce the amount of flour to 250g or less;
+* Outcome with Rewe Glutenfrei Mehl: ok
+* reduce amount of flour or increase amount of milk by 20-25%
 * DO NOT add any Gum (e.g. Xanthan), they will be a disaster to work with;
+* Outcome with Schär Mix B Brot Mix = best flour so far
 
 ## Open this link if you have the time
 
