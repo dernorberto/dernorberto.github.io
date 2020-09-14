@@ -1,4 +1,24 @@
-## details
+## Recipe #1 - Video of J. Kenji López-Alt cooking a tortilla
+
+https://youtu.be/RPYk9W9v-bI
+
+### Comments
+
+* The family loved it and my wife was impressed;
+* I should have been more careful with the first side as it burned a bit;
+* I used to think it was a lot of work, but it's not;
+* I was making it WHILE watching the video;
+
+### Ingredients
+
+* Potatoes
+* Onions
+* 5 eggs
+* Olive oil to cook
+* Salt
+* Pepper
+
+## Recipe #2 - Kidspot simple spanish omelette
 
 * source: https://www.kidspot.com.au/kitchen/recipes/simple-spanish-omelette-1019
 * opinion: family loves it, do mention to your kids that it has chippies (fries) in it
@@ -6,7 +26,7 @@
 * you can do tortillas with anything, chorizo, ham, olives
 * it is a very simple recipe, even if the instructions look long
 
-## ingredients
+### ingredients
 
 * 300g waxy potatoes, peeled and thinly sliced
 * 5 eggs
@@ -17,7 +37,7 @@
 * 3 tbsp olive oil
 * Salt and pepper
 
-## preparation
+### preparation
 
 * Lightly salt the potatoes slices.
 * Place a large frying pan on high heat and add 2 tbs olive oil. When the oil is hot, add the potato slices
