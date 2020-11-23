@@ -5,7 +5,12 @@
 ## Details
 
 * Source: https://www.youtube.com/watch?v=Ld5cECqIFU0
-* Experience: never tried
+* Experience: delicious, lots of umami boosts in this one;
+
+### Notes
+
+* a family of 4 = min 500g of mince
+* cooking with video is hard unless you arr very good with your knife and have all the ingredients ready;
 
 ## Ingredients
 
@@ -21,7 +26,6 @@
 * 3 medium cloves garlic, minced or grated on a Microplane (about 1 tablespoon; reserve about 2 teaspoons for the sauce)
 * 1 teaspoon red pepper flakes
 * 1 large egg
-* 1 tablespoon sugar
 * ½ teaspoon ground fennel
 * Freshly ground black pepper
 * 2 cups vegetable oil
