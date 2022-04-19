@@ -3,19 +3,32 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Norberto's Recipes's documentation!
+Norberto's Recipes's documentation!
 ==============================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Family meals
+   :hidden:
+   :glob:
+
+   meal*
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Smaller recipes
+   :hidden:
    :glob:
 
    recipe*
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. This is a comment and should not affect the page.
+
+
+About
+=====
+
+:Content: A list of family recipes that take < 1h to prepare
+
+
