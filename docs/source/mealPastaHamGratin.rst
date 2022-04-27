@@ -1,5 +1,23 @@
+"""The recipe's docstring
+
+:param Rating: The family rating 
+:type Rating: str, optional
+
+:param Serves: How many people does it feed
+:type Serves: int, optional
+
+"""
+
+
+.. meta::
+   :title: Pasta ham gratin
+   :description: Easy, quick, tasty
+   :keywords: pasta, family
+   :rating: * * * * *
+
+
 ************************
-Recipe Name
+Past Ham Gratin
 ************************
 
 :Prep Time: 15min

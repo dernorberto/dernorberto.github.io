@@ -6,6 +6,8 @@
 Norberto's Recipes's documentation!
 ==============================================
 
+.. currentmodule:: sphinx
+
 .. toctree::
    :maxdepth: 1
    :caption: Family meals

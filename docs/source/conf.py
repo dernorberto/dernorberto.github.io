@@ -56,10 +56,21 @@ html_static_path = ['_static']
 
 master_doc = 'index'
 extensions = ['sphinx.ext.autosummary','sphinx.ext.githubpages','sphinx_rtd_theme']
+autosummary_generate = True
 
+## themes:
 
-## READ THE DOCS theme
-
-import sphinx_rtd_theme
-html_theme = "sphinx_rtd_theme"
+import sphinx_rtd_theme, sphinx_documatt_theme
+#html_theme = "sphinx_rtd_theme"
+#html_theme = "sphinx_documatt_theme"
 html_theme_path = ["_themes", ]
+#html_theme = "alabaster"
+html_theme = "sphinx_rtd_theme"
+
+
+html_theme_options = {
+    # Set the name of the project to appear in the sidebar
+    "project_nav_name": "Norberto's recipes",
+}
+
+
