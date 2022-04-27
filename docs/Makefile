@@ -18,3 +18,12 @@ help:
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
 %: Makefile
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+
+
+github:
+	@make html
+	@git checkout gh-pages
+	@git add ./build/
+	@git commit -m "updated html"
+	@git push
+	@git checkout master
