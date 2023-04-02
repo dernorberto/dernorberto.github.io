@@ -1,5 +1,5 @@
 ***********************************
-Pizza dough
+Pizza dough for home oven
 ***********************************
 
 :Source: Vito Iacopelli and Alex (French guy cooking)
@@ -21,7 +21,7 @@ Ingredients 65% hidration, 4 pies
 
 -  Flour: 660g (Tipo 00 or strong flour, 550)
 -  Water: 432 (luke-warm)
--  Salt: 24g
+-  Salt: 20g
 -  Dry yeast: 4g
 -  Honey and olive oil
 
