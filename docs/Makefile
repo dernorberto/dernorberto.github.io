@@ -22,7 +22,7 @@ help:
 
 github:
 	@make html
-	@git checkout gh-pages
+	@git checkout master
 	@git add ./build/
 	@git commit -m "updated html"
 	@git push
