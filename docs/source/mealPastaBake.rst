@@ -1,5 +1,5 @@
 .. meta::
-   :title: Pasta ham gratin
+   :title: Pasta bake/ham gratin
    :description: Easy, quick, tasty
    :keywords: pasta, family
    :rating: * * * * *
@@ -18,16 +18,16 @@ Past Ham Gratin
 Ingredients
 #################
 
--  350 g Pasta (Penne, Fusilli, ...)
+-  500 g Pasta (Penne, Fusilli, ...)
 -  300 g cooked ham cut into cubes
--  600-700 ml broth 
--  200 ml cream
--  1 Tbsp Cornstarch
+-  1000-1100 ml stock (1 pot chicken + 1 pot beef) 
+-  1 pot 200/250 ml double cream
+-  1 Tbsp Corn flour (cornstarch)
 -  1 Tbsp Tomato concentrated
 -  1 Tsp Paprika
 -  Salt, Pepper and nutmeg
--  1 Bay leaf
--  150 g Gratin cheese (Peccorino has been recommended)
+-  1 Bay leaf (optional)
+-  1 bag cheese (Mozarella + Cheddar, or just Cheddar)
 
 Preaparation
 #################
