@@ -22,8 +22,10 @@ help:
 
 github:
 	@make html
+	@cp -a build/html/. ../docs
 	@git checkout master
 	@git add ./build/
 	@git commit -m "updated html"
 	@git push
 	@git checkout master
+	
