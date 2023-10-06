@@ -22,6 +22,7 @@ help:
 
 github:
 	@make clean html
+	@cp -a docs/html/. ./docs
 	@git checkout master
 	@git add ./docs/
 	@git commit -m "updated html"

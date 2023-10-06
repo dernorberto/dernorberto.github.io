@@ -18,17 +18,11 @@
 # -- Project information -----------------------------------------------------
 
 project = "Norberto's Recipes"
-copyright = '2022, Norberto'
+copyright = '2023, Norberto'
 author = 'Norberto'
 
 
 # -- General configuration ---------------------------------------------------
-
-# Add any Sphinx extension module names here, as strings. They can be
-# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
-# ones.
-extensions = [
-]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -51,10 +45,12 @@ exclude_patterns = []
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-
 #### custom
 
 master_doc = 'index'
+# Add any Sphinx extension module names here, as strings. They can be
+# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
+# ones.
 extensions = ['sphinx.ext.autosummary','sphinx.ext.githubpages','sphinx_rtd_theme']
 autosummary_generate = True
 
@@ -67,7 +63,7 @@ html_theme = "sphinx_rtd_theme"
 
 html_theme_options = {
     # Set the name of the project to appear in the sidebar
-    "project_nav_name": "Norberto's recipes",
+#    "project_nav_name": "Norberto's recipes",
 }
 
 
